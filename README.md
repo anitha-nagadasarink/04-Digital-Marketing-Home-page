@@ -1,4 +1,4 @@
-# Project Name : **Digital-Marketing-Home-page !** 
+# Project Name : **Digital Marketing Home-page !** 
 ![badge](https://img.shields.io/badge/iNeuron-LCO-green) ![badge](https://img.shields.io/badge/Hitesh--Choudhary-Full%20Stack%20Javascript%20Course-orange)
 
 >This project developed with pure HTML and CSS mainly focused on positions.
@@ -13,8 +13,8 @@
 
 ### Demo :
 
-![Web Site Image](https://github.com/anitha-nagadasarink/03-Law-Home-Page/blob/HTML-CSS-Projects/assets/demo.png)
+![Web Site Image](https://github.com/anitha-nagadasarink/04-Digital-Marketing-Home-page/blob/HTML-CSS-Projects/assets/demo.png)
 
 ### You can Check it Live on Below Link :
 
-[Live Link !](https://law-moder-webpage.netlify.app/)
+[Live Link !](https://new-digital-marketing-webpage.netlify.app/)
