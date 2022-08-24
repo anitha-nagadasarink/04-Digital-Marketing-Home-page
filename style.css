@@ -1,0 +1,117 @@
+/* Reset CSS */
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+  font-family: 'Poppins', sans-serif;
+}
+
+body {
+  color: #3c2f60;
+  font-size: 16px;  
+}
+
+
+/* Navbar */
+
+.navbar-container {
+  display: block;
+  width: 1000px;  
+  padding: 45px 0;
+  margin: auto;
+}
+
+.navbar-container::after  {
+  display: table;
+  content: ' ';
+  clear: both;
+}
+
+.navbar-container > div {
+  display: inline-block;
+  float: left;
+}
+
+.navbar-container > div:first-child{
+  width: 15%;
+}
+
+.navbar-container > div:nth-child(2){
+  width: 65%;
+  margin-top: 10px;
+}
+
+.navbar-container > div:last-child{
+  width: 20%;
+}
+
+.navbar-container img {
+  width: 100px;
+  margin-top: 10px;
+}
+
+.list {
+  list-style: none;
+  padding: 0; 
+}
+
+.list li {
+  display: inline-block;
+  font-weight: 600;
+}
+.list li:not(:first-child){
+  color: #cbcbcb;
+}
+.list li:not(:last-child){
+  margin-right: 25px;
+}
+
+.nav-button{
+  padding: 10px 26px;
+  border: none;
+  border-radius: 8px;
+  background-color: #5955b3;
+  color: #ffffff;
+  font-size: 14px;
+}
+
+/*  Banner*/
+
+.banner-container{
+  width: 1175px;
+  margin-left: auto;
+}
+.banner-container > div{
+  display: inline-block; 
+  float: left;
+}
+.banner-container > div:first-child{
+  max-width: 40%;
+}
+.banner-container > div:last-child{
+  max-width: 60%;
+}
+.banner-container > div:last-child img{
+  max-width: 100%;
+}
+
+.heading-text {
+  margin-bottom: 20px;
+  font-size: 50px;
+  font-weight: 700;
+  line-height: 1.18;
+}
+.heading-text span {
+  color: #6a67bb;
+}
+
+.description {
+  width: 78%;
+  margin-bottom: 50px;
+  color: #A8A8A8;
+  font-size: 16px;
+}
+.btn {
+  padding: 15px 35px;
+  background-color: #5955b3;
+}
